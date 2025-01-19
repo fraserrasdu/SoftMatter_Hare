@@ -23,10 +23,5 @@ sum_!f_if_f is the sum of empty pockets in which there was a focal conic domain 
 sum_f_if_!f is the sum of focal conic domains that form in a pocket if there was no focal conic domain in the same pocket before heating
 sum_!f_if_!f is the sum of empty pockets that were empty before heating
 unwt_mean_pcond is the unweighted mean of pcond 
-min/max/stc(norm) and min/max/stc(normal) 
-pcond_norm is the normalised pcond 
-???pcond_normalt 
 geom indicates the channel geometry analysed, characterised by the listed w and s
-???min/max/stc (normiso) 
-???pcond_normiso
  
